@@ -1,15 +1,12 @@
 {
-  "name": "my-nodejs-app",
+  "name": "my-whatsapp-bot",
   "version": "1.0.0",
-  "description": "A simple Node.js app deployed on Railway",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
-    "whatsapp-web.js": "latest",
-    "punycode": "^2.1.1"
+    "whatsapp-web.js": "^1.14.1",
+    "qrcode-terminal": "^0.12.0"
   }
 }
-
