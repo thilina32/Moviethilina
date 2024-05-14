@@ -1,5 +1,5 @@
 services:
   default:
     commands:
-      - npm install whatsapp-web.js punycode
+      - npm install whatsapp-web.js punycode --omit=dev
       - npm start
