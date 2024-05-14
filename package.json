@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "whatsapp-web.js": "latest"
+    "whatsapp-web.js": "latest",
     "punycode": "^2.1.1"
   }
 }
