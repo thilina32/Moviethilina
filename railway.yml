@@ -1,5 +1,0 @@
-services:
-  default:
-    commands:
-      - npm install whatsapp-web.js qrcode-terminal
-      - npm start
